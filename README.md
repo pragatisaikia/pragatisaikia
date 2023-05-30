@@ -10,7 +10,7 @@
 </p>
 
 ## About me :sassy_woman:
-A tech geek curious about emerging technologies and love working with tools and people. I am a sophomore pursuing Bachelor of Technology in Computer Science.
+A tech geek curious about emerging technologies and love working with tools and people. Giving back to the community is my core strength.
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pragatisaikia&label=Profile%20views&color=0e75b6&style=flat" alt="pragatisaikia" /> </p>
  
  * :student: A sophomore pursuing Bachelor of Technology in Computer Science.
