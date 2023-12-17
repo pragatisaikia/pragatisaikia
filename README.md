@@ -5,7 +5,7 @@
 A tech geek curious about emerging technologies and love working with tools and people. Giving back to the community is my core strength.
 
  * :student: A junior pursuing Bachelor of Technology in Computer Science.
- * :beetle: I'm an open source enthusiast with the love for backend technology and ethical hacking.
+ * :beetle: I'm an open source enthusiast with the love for development, deployment and ethical hacking.
  * :speech_balloon: Ask me about anything, I am happy to help and contribute to the community growth.
  * :zap: Fun-Fact: I also write blogs on technical stuff [Check here](https://hashnode.com/@PragatiS)
  * :page_with_curl: Know about my experiences: [My Resume!](https://drive.google.com/file/d/1C7sOH80OgRFaM-Y2BUhMadAnS4aLeKd_/view?usp=drive_link)
