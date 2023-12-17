@@ -1,4 +1,4 @@
-![I'm](https://github.com/pragatisaikia/pragatisaikia/assets/92122197/65a1fc4f-ace8-46f5-bddc-738914cc181d)
+![I'm](https://github.com/pragatisaikia/pragatisaikia/blob/main/assets/bio.png)
 
 ## About me :sassy_woman:
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pragatisaikia&label=Profile%20views&color=0e75b6&style=flat" alt="pragatisaikia" /> </p>
